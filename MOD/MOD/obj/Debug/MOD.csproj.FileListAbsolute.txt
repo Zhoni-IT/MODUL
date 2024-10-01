@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\bin\Debug\MOD.exe.config
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\bin\Debug\MOD.exe
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\bin\Debug\MOD.pdb
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\obj\Debug\MOD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\obj\Debug\MOD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\obj\Debug\MOD.exe
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\Модуль 03\Модуль 03 Домашнее задание\GITmodul\MOD\MOD\obj\Debug\MOD.pdb
