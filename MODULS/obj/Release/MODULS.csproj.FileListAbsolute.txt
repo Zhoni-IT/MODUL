@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\bin\Release\MODULS.exe.config
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\bin\Release\MODULS.exe
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\bin\Release\MODULS.pdb
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.exe
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.pdb
