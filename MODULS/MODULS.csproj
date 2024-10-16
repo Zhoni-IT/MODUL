@@ -65,6 +65,9 @@
     <Compile Include="MODUL05\DOM\Program.cs" />
     <Compile Include="MODUL05\LAB\Program2.cs" />
     <Compile Include="MODUL05\PRAC\Program3.cs" />
+    <Compile Include="MODUL08\LAB\Program1.cs" />
+    <Compile Include="MODUL08\LAB\Program2.cs" />
+    <Compile Include="MODUL08\PRAC\Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -82,6 +85,8 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="MODUL08\DOM\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

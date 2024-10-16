@@ -147,9 +147,9 @@ namespace MODULS.MODUL05.LAB
         }
     }
 
-    class Program2
+    internal class Program2
     {
-        static void Main(string[] args)
+        /* static void Main(string[] args)
         {
             Console.WriteLine("Выберите тип транспорта: 1 - Автомобиль, 2 - Мотоцикл, 3 - Самолет, 4 - Велосипед");
             int choice = int.Parse(Console.ReadLine());
@@ -189,6 +189,6 @@ namespace MODULS.MODUL05.LAB
             }
 
             Console.ReadLine();
-        }
+        }*/ 
     }
 }

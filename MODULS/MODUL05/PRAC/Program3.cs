@@ -90,9 +90,9 @@ namespace MODULS.MODUL05.PRAC
         }
     }
 
-    class Program3
+    internal class Program3
     {
-        static void Main(string[] args)
+        /* static void Main(string[] args)
         {
             Console.WriteLine("Выберите тип документа: 1 - Отчет, 2 - Резюме, 3 - Письмо, 4 - Счет");
             int choice = int.Parse(Console.ReadLine());
@@ -122,6 +122,6 @@ namespace MODULS.MODUL05.PRAC
             document.Open();
 
             Console.ReadLine();
-        }
+        }*/ 
     }
 }
