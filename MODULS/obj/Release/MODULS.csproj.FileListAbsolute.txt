@@ -5,3 +5,6 @@ C:\Users\User\Desktop\SU\Шаблоны проектирования прило�
 C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\bin\Release\MODULS.pdb
 C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.exe
 C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.pdb
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\bin\Release\Newtonsoft.Json.dll
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\bin\Release\Newtonsoft.Json.xml
+C:\Users\User\Desktop\SU\Шаблоны проектирования приложений\MODUL\MODULS\obj\Release\MODULS.csproj.Up2Date

@@ -1,0 +1,8 @@
+Thread0=Value from thread 0
+Thread3=Value from thread 3
+Thread4=Value from thread 4
+Thread1=Value from thread 1
+Thread2=Value from thread 2
+AppMode=Production
+LogLevel=Debug
+MaxConnections=100

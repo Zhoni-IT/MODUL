@@ -2,5 +2,7 @@
 *.suo 
 *.exe 
 *.pdb 
+*.log
+*.txt
 /bin/ 
 /obj/ 
