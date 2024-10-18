@@ -16,12 +16,12 @@ namespace MODULS.MODUL08.LAB
         }
         private void BoilWater()
         {
-            Console.WriteLine("Кипячение воды...");
+            Console.WriteLine("Кипячение воды");
         }
 
         private void PourInCup()
         {
-            Console.WriteLine("Наливание в чашку...");
+            Console.WriteLine("Наливание в чашку");
         }
         protected abstract void Brew();
         protected abstract void AddCondiments();
@@ -33,7 +33,7 @@ namespace MODULS.MODUL08.LAB
         }
         protected override void AddCondiments()
         {
-            Console.WriteLine("Добавление лимона, ");
+            Console.WriteLine("Добавление лимона");
         }
     }
     public class Coffee : Beverage
@@ -44,10 +44,23 @@ namespace MODULS.MODUL08.LAB
         }
         protected override void AddCondiments()
         {
-            Console.WriteLine("Добавление сливки, ");
+            Console.WriteLine("Добавление сливки");
         }
     }
     internal class Program2
     {
+        /* static void Main(string[] args)
+        {
+            Beverage tea = new Tea();
+            Console.WriteLine("Приготовление чая:");
+            tea.PrepareRecipe();
+
+            Console.WriteLine();
+
+            Beverage coffee = new Coffee();
+            Console.WriteLine("Приготовление кофе:");
+            coffee.PrepareRecipe();
+
+        }*/ 
     }
 }
