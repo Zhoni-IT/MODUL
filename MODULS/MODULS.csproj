@@ -81,9 +81,14 @@
     <Compile Include="MODUL07\PRAC\Program1.cs" />
     <Compile Include="MODUL07\PRAC\Program2.cs" />
     <Compile Include="MODUL08\DOM\Program.cs" />
+    <Compile Include="MODUL08\DOM\Program2.cs" />
+    <Compile Include="MODUL08\DOM\Program3.cs" />
     <Compile Include="MODUL08\LAB\Program1.cs" />
     <Compile Include="MODUL08\LAB\Program2.cs" />
-    <Compile Include="MODUL08\PRAC\Program.cs" />
+    <Compile Include="MODUL08\LAB\Program3.cs" />
+    <Compile Include="MODUL08\PRAC\Program1.cs" />
+    <Compile Include="MODUL08\PRAC\Program2.cs" />
+    <Compile Include="MODUL08\PRAC\Program3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

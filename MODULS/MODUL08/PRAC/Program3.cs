@@ -83,9 +83,9 @@ namespace MODULS.MODUL08.PRAC
         }
 
     }
-    internal class Program
+    internal class Program3
     {
-        /* static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             ChatMediator chat = new ChatMediator();
             IUser user1 = new User("User1", chat);
