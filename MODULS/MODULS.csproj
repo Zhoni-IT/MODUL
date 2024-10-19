@@ -65,6 +65,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MODUL01\DOM\Program.cs" />
+    <Compile Include="MODUL01\LAB\Program.cs" />
+    <Compile Include="MODUL01\PRAC\Program.cs" />
+    <Compile Include="MODUL03\DOM\ProgramDRY1.cs" />
+    <Compile Include="MODUL03\DOM\ProgramDRY2.cs" />
+    <Compile Include="MODUL03\DOM\ProgramKISS.cs" />
+    <Compile Include="MODUL03\DOM\ProgramYAGNI.cs" />
+    <Compile Include="MODUL03\LAB\ProgramDRY1.cs" />
+    <Compile Include="MODUL03\LAB\ProgramKISS.cs" />
+    <Compile Include="MODUL03\LAB\ProgramYAGNI.cs" />
+    <Compile Include="MODUL03\PRAC\Program.cs" />
+    <Compile Include="MODUL04\DOM\Program.cs" />
+    <Compile Include="MODUL04\DOM\Program2.cs" />
+    <Compile Include="MODUL04\DOM\Program3.cs" />
+    <Compile Include="MODUL04\DOM\Program4.cs" />
+    <Compile Include="MODUL04\LAB\Program.cs" />
+    <Compile Include="MODUL04\LAB\Program2.cs" />
+    <Compile Include="MODUL04\LAB\Program3.cs" />
+    <Compile Include="MODUL04\LAB\Program4.cs" />
+    <Compile Include="MODUL04\PRAC\Program.cs" />
     <Compile Include="MODUL05\DOM\Program.cs" />
     <Compile Include="MODUL05\LAB\Program2.cs" />
     <Compile Include="MODUL05\PRAC\Program3.cs" />
@@ -80,7 +100,7 @@
     <Compile Include="MODUL07\LAB\Program2.cs" />
     <Compile Include="MODUL07\PRAC\Program1.cs" />
     <Compile Include="MODUL07\PRAC\Program2.cs" />
-    <Compile Include="MODUL08\DOM\Program.cs" />
+    <Compile Include="MODUL08\DOM\Program1.cs" />
     <Compile Include="MODUL08\DOM\Program2.cs" />
     <Compile Include="MODUL08\DOM\Program3.cs" />
     <Compile Include="MODUL08\LAB\Program1.cs" />
