@@ -115,6 +115,12 @@
     <Compile Include="MODUL09\LAB\Program2.cs" />
     <Compile Include="MODUL09\PRAC\Program1.cs" />
     <Compile Include="MODUL09\PRAC\Program2.cs" />
+    <Compile Include="MODUL10\DOM\Program1.cs" />
+    <Compile Include="MODUL10\DOM\Program2.cs" />
+    <Compile Include="MODUL10\LAB\Program.cs" />
+    <Compile Include="MODUL10\LAB\Program2.cs" />
+    <Compile Include="MODUL10\PRAC\Program.cs" />
+    <Compile Include="MODUL10\PRAC\Program2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
