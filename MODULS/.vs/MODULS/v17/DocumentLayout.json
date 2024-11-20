@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{37163D2C-5462-4620-AC87-5F1151AD56FF}|MODULS.csproj|c:\\users\\user\\desktop\\su\\\u0448\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\modul\\moduls\\modul10\\prac\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37163D2C-5462-4620-AC87-5F1151AD56FF}|MODULS.csproj|solutionrelative:modul10\\prac\\program2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37163D2C-5462-4620-AC87-5F1151AD56FF}|MODULS.csproj|c:\\users\\user\\desktop\\su\\\u0448\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\modul\\moduls\\modul10\\prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37163D2C-5462-4620-AC87-5F1151AD56FF}|MODULS.csproj|solutionrelative:modul10\\prac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\SU\\\u0428\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\MODUL\\MODULS\\MODUL10\\PRAC\\Program.cs",
-              "RelativeDocumentMoniker": "MODUL10\\PRAC\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SU\\\u0428\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\MODUL\\MODULS\\MODUL10\\PRAC\\Program.cs",
-              "RelativeToolTip": "MODUL10\\PRAC\\Program.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAQwIMAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:58:46.475Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program2.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\SU\\\u0428\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\MODUL\\MODULS\\MODUL10\\PRAC\\Program2.cs",
               "RelativeDocumentMoniker": "MODUL10\\PRAC\\Program2.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\SU\\\u0428\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\MODUL\\MODULS\\MODUL10\\PRAC\\Program2.cs*",
-              "RelativeToolTip": "MODUL10\\PRAC\\Program2.cs*",
-              "ViewState": "AQIAAH4AAAAAAAAAAAAAAJAAAAAdAAAA",
+              "ToolTip": "C:\\Users\\User\\Desktop\\SU\\\u0428\u0430\u0431\u043B\u043E\u043D\u044B \u043F\u0440\u043E\u0435\u043A\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439\\MODUL\\MODULS\\MODUL10\\PRAC\\Program2.cs",
+              "RelativeToolTip": "MODUL10\\PRAC\\Program2.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T15:55:59.134Z",
+              "WhenOpened": "2024-11-06T16:03:55.136Z",
               "EditorCaption": ""
             }
           ]
