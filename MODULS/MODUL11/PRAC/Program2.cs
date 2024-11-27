@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MODULS.MODUL11.PRAC
 {
-    public class Book
+    /*public class Book
     {
         public string Title { get; set; }
         public string Author { get; set; }
@@ -21,7 +21,6 @@ namespace MODULS.MODUL11.PRAC
             ISBN = isbn;
         }
 
-        // Метод для получения информации о книге
         public string GetBookInfo()
         {
             return $"{Title} by {Author}, Genre: {Genre}, ISBN: {ISBN}";
@@ -51,14 +50,12 @@ namespace MODULS.MODUL11.PRAC
             _accountingSystem = accountingSystem;
         }
 
-        // Метод для выдачи книги
         public void IssueBook(Book book, Reader reader)
         {
             Console.WriteLine($"{reader.FirstName} {reader.LastName} взял книгу: {book.GetBookInfo()}");
             _accountingSystem.TrackIssuedBooks(book, reader);
         }
 
-        // Метод для возврата книги
         public void ReturnBook(Book book, Reader reader)
         {
             Console.WriteLine($"{reader.FirstName} {reader.LastName} вернул книгу: {book.GetBookInfo()}");
@@ -75,19 +72,16 @@ namespace MODULS.MODUL11.PRAC
             Books = new List<Book>();
         }
 
-        // Поиск книги по названию
         public List<Book> SearchBookByTitle(string title)
         {
             return Books.Where(b => b.Title.Contains(title)).ToList();
         }
 
-        // Поиск книги по автору
         public List<Book> SearchBookByAuthor(string author)
         {
             return Books.Where(b => b.Author.Contains(author)).ToList();
         }
 
-        // Поиск книги по жанру
         public List<Book> SearchBookByGenre(string genre)
         {
             return Books.Where(b => b.Genre.Contains(genre)).ToList();
@@ -103,7 +97,6 @@ namespace MODULS.MODUL11.PRAC
             _transactions = new List<string>();
         }
 
-        // Метод для отслеживания выданных книг
         public void TrackIssuedBooks(Book book, Reader reader)
         {
             var transaction = $"{reader.FirstName} {reader.LastName} взял книгу: {book.GetBookInfo()}";
@@ -111,7 +104,6 @@ namespace MODULS.MODUL11.PRAC
             RecordTransaction(transaction);
         }
 
-        // Метод для отслеживания возвращенных книг
         public void TrackReturnedBooks(Book book, Reader reader)
         {
             var transaction = $"{reader.FirstName} {reader.LastName} вернул книгу: {book.GetBookInfo()}";
@@ -119,15 +111,14 @@ namespace MODULS.MODUL11.PRAC
             RecordTransaction(transaction);
         }
 
-        // Метод для записи транзакции
         private void RecordTransaction(string transaction)
         {
             Console.WriteLine($"Запись транзакции: {transaction}");
         }
-    }
+    }*/
     internal class Program2
     {
-        public static void Main(string[] args)
+        /*public static void Main(string[] args)
         {
             var catalog = new Catalog();
             var accountingSystem = new AccountingSystem();
@@ -147,6 +138,6 @@ namespace MODULS.MODUL11.PRAC
             librarian.IssueBook(booksFound[0], reader);
 
             librarian.ReturnBook(booksFound[0], reader);
-        }
+        }*/
     }
 }
