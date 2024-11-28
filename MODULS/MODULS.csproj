@@ -127,6 +127,9 @@
     <Compile Include="MODUL11\LAB\Program2.cs" />
     <Compile Include="MODUL11\PRAC\Program1.cs" />
     <Compile Include="MODUL11\PRAC\Program2.cs" />
+    <Compile Include="MODUL12\LAB\Program1.cs" />
+    <Compile Include="MODUL12\LAB\Program2.cs" />
+    <Compile Include="MODUL12\LAB\Program3.cs" />
     <Compile Include="MODUL12\PRAC\Program1.cs" />
     <Compile Include="MODUL12\PRAC\Program2.cs" />
     <Compile Include="MODUL12\PRAC\Program3.cs" />
@@ -152,7 +155,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="MODUL12\DOM\" />
-    <Folder Include="MODUL12\LAB\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="config.txt" />
