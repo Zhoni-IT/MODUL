@@ -127,6 +127,8 @@
     <Compile Include="MODUL11\LAB\Program2.cs" />
     <Compile Include="MODUL11\PRAC\Program1.cs" />
     <Compile Include="MODUL11\PRAC\Program2.cs" />
+    <Compile Include="MODUL12\DOM\Program1.cs" />
+    <Compile Include="MODUL12\DOM\Program2.cs" />
     <Compile Include="MODUL12\LAB\Program1.cs" />
     <Compile Include="MODUL12\LAB\Program2.cs" />
     <Compile Include="MODUL12\LAB\Program3.cs" />
@@ -153,9 +155,7 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="MODUL12\DOM\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="config.txt" />
     <Content Include="log.txt" />
