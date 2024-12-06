@@ -135,6 +135,12 @@
     <Compile Include="MODUL12\PRAC\Program1.cs" />
     <Compile Include="MODUL12\PRAC\Program2.cs" />
     <Compile Include="MODUL12\PRAC\Program3.cs" />
+    <Compile Include="MODUL13\DOM\Program1.cs" />
+    <Compile Include="MODUL13\DOM\Program2.cs" />
+    <Compile Include="MODUL13\LAB\Program1.cs" />
+    <Compile Include="MODUL13\LAB\Program2.cs" />
+    <Compile Include="MODUL13\PRAC\Program1.cs" />
+    <Compile Include="MODUL13\PRAC\Program2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
